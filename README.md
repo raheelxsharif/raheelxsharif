@@ -1,13 +1,10 @@
 # Raheel
 
-Founder of [Dataspryva](https://apify.com/dataspryva). I build Apify Actors that turn web content into structured, ready-to-use data.
+Founder of [Dataspryva](https://apify.com/dataspryva). I build Apify Actors that turn public web sources into structured records you can check and analyse.
 
-- Extract datasets from websites and online platforms.
-- Automate recurring data collection.
-- Bring data from multiple sources into one workflow.
+**The Dataspryva Actor reference: [raheelxsharif.github.io/apify-actor-examples](https://raheelxsharif.github.io/apify-actor-examples/)**
 
-[Explore Dataspryva on Apify](https://apify.com/dataspryva)
+For each Actor it sets out the fields a record carries, the inputs it needs and what a run costs, taken from the published README, schema and Store pricing, with API examples in Python, JavaScript and cURL.
 
-[Actor examples and documentation](https://github.com/raheelxsharif/apify-actor-examples)
-
-[Browse the Actor catalog, schemas, and Python guides](https://raheelxsharif.github.io/apify-actor-examples/).
+- Dataspryva on the Apify Store: [apify.com/dataspryva](https://apify.com/dataspryva)
+- The repository behind the reference, with worked examples: [apify-actor-examples](https://github.com/raheelxsharif/apify-actor-examples)
